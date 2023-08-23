@@ -5,4 +5,4 @@
 > And still learning C#
 >
 ## You can contact me through discord if you want to!
-> ### My username is Trein#8451
+> ### My username is trein_flushed
